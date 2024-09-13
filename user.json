@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "first_name": "Cally",
+        "last_name": "Smoth",
+        "email": "csmoth0@tmall.com",
+        "gender": "Female"
+        ,
+        "salary":15000
+        
+    },
+    {
+        "id": 2,
+        "first_name": "Roxy",
+        "last_name": "Norcock",
+        "email": "rnorcock1@booking.com",
+        "gender": "Female",
+        "salary":18000
+    },
+    {
+        "id": 3,
+        "first_name": "Lamont",
+        "last_name": "Andrew",
+        "email": "landrew2@loc.gov",
+        "gender": "Male",
+        "salary":11000
+    },
+    {
+        "id": 4,
+        "first_name": "Brewster",
+        "last_name": "Jaspar",
+        "email": "bjaspar3@webeden.co.uk",
+        "gender": "Male",
+        "salary":13000
+    },
+    {
+        "id": 5,
+        "first_name": "Cloris",
+        "last_name": "Japp",
+        "email": "cjapp4@wikimedia.org",
+        "gender": "Female",
+        "salary":15000
+    },
+    {
+        "id": 6,
+        "first_name": "Sib",
+        "last_name": "Rowe",
+        "email": "srowe5@cafepress.com",
+        "gender": "Female",
+        "salary":19000
+    },
+    {
+        "id": 7,
+        "first_name": "Andrei",
+        "last_name": "Slopier",
+        "email": "aslopier6@pinterest.com",
+        "gender": "Female",
+        "salary":18000
+    },
+    {
+        "id": 8,
+        "first_name": "Octavius",
+        "last_name": "Sposito",
+        "email": "osposito7@ucoz.ru",
+        "gender": "Agender",
+        "salary":12000
+    },
+    {
+        "id": 9,
+        "first_name": "Lynnell",
+        "last_name": "Dumper",
+        "email": "ldumper8@shutterfly.com",
+        "gender": "Female",
+        "salary":14000
+    },
+    {
+        "id": 10,
+        "first_name": "Alex",
+        "last_name": "Tevelov",
+        "email": "atevelov9@nytimes.com",
+        "gender": "Genderqueer",
+        "salary":15000
+    }
+]
